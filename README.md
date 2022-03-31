@@ -1,5 +1,8 @@
 # 코딩테스트 대비 알고리즘 연습 레포지토리
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunyshs01)](https://solved.ac/yunyshs01)
+
 ---
 
 ### 2022 03 29

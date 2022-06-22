@@ -4,6 +4,11 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunyshs01)](https://solved.ac/yunyshs01)
 
 ---
+### 2022 06 22
+
+요즘 바빠서 ㅎㅎ
+
+---
 
 ### 2022 03 29
 
